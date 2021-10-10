@@ -26,6 +26,7 @@ execute the command "python3 veremiSimulationParser.py" to parse and preprocess 
 
 Each "logs" folder will generate one parsed log file "!SCENARIO_ID!_parsed.csv" file at the "parsed_logs" folder.
 
+"python veremiExtension_simulationParser.py" is used to parse traffic logs from Veremi-Extension dataset. It implements the plausibility checks and trust calculations which are not native to Veremi-Extension dataset.
 
 B) OVERTON.py usage:
 
