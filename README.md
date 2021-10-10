@@ -15,7 +15,8 @@ pip install -r requirements.txt
 The [Experiment Data](https://drive.google.com/drive/folders/1qQ4VvuhZQHSKRFGCB6NnuSjIxne3vDiW?usp=sharing) folder includes individual folders for all the experiments presented in the paper.
 Each folder contains traffic data logs for the simulations with mentioned attack densities (0.1-0.3) so that the experiments results can be easily reproduced. 
 
-Also, each experiment folder contains the preprocessed traffic logs with extracted features, thus, you could skip the steps (A) and extraction in (B) during evaluation. 
+<!---Also, each experiment folder contains the preprocessed traffic logs with extracted features, thus, you could skip the steps (A) and extraction in (B) during evaluation. -->
+
 
 ## Usage
 
