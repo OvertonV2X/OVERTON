@@ -1,6 +1,6 @@
 # OVERTON
 
-This repository contains artifacts for the paper: "OVERTON: Misbehavior Detection and Trust in Vehicular Networks" submitted at the 31st USENIX Security Symposium. The artifacts include OVERTON source code and data paths with sample datasets for parsing traffic data and running the framework.
+This repository contains artifacts for the paper: "OVERTON: Misbehavior Detection and Trust in Vehicular Networks" submitted at the 45th IEEE Symposium on Security and Privacy. The artifacts include OVERTON source code and data paths with sample datasets for parsing traffic data and running the framework.
 
 The datasets used in the OVERTON evaluation are provided here: [DRIVE-LINK](https://drive.google.com/drive/folders/1qQ4VvuhZQHSKRFGCB6NnuSjIxne3vDiW?usp=sharing)
 ## Dependencies
